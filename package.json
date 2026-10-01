@@ -1,0 +1,11 @@
+{
+  "name": "servicecenter-parts",
+  "version": "1.0.0",
+  "description": "Сервисный центр: заявки на закупку запчастей, каталог, админ-панель",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "license": "MIT"
+}
